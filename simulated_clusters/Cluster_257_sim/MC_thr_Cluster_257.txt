@@ -1,0 +1,2 @@
+MC_thr	f_MC_thr	min_f	max_f	total_in_field	true_MC_thr	max_t	min_t
+29000	187	149	243	625	438	476	382

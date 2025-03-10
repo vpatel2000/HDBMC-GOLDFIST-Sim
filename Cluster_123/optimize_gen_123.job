@@ -1,0 +1,27 @@
+# /bin/sh 
+# ----------------Parameters---------------------- #
+#$  -S /bin/sh
+#$ -pe mthread 80
+#$ -q mThC.q
+#$ -l mres=640G,h_data=8G,h_vmem=8G
+#$ -cwd
+#$ -j y
+#$ -N optimize_gen_123
+#$ -o optimize_gen_123.log
+#$ -m bea
+#$ -M vrhpatel2000@gmail.com
+#
+# ----------------Modules------------------------- #
+module load tools/conda
+start-conda
+conda activate main
+
+#
+# ----------------Your Commands------------------- #
+#
+echo + `date` job $JOB_NAME started in $QUEUE with jobID=$JOB_ID on $HOSTNAME
+echo + NSLOTS = $NSLOTS distributed over:cat $PE_HOSTFILE
+#
+python3 /pool/sao/vpatel/Cluster_Archive/simulated_clusters/optimize_gen_123.py
+#
+echo = `date` job $JOB_NAME done

@@ -1,0 +1,2 @@
+cluster_name, central_RA, central_Dec, cluster_radius, DBSCAN, HDBSCAN_MC, total_HDBSCAN_MC, new_gaia, total_gaia, new_SFOG,  outliers_DBSCAN, beta, median_dist, mean_dist, avg_dist_unc, kinematic_dist, kin_unc, sim_dist, sim_dist_unc, cen_lon, cen_lat, f_pos 
+Cluster_163, 319.95476, 51.90844, 1.21786, 108, 134, 198, 1, 3, 131, 2, 0.2547, 3656, 3579, 1231, 9900, 1980, 3531, 444 ,93.44235, 1.58815, 108
