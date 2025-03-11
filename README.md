@@ -11,10 +11,10 @@ This section provides the required dependencies and installation instructions.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/vpatel2000/HDBMC-GOLDFIST-Sim.git
 2. Navigate to the project directory:
    ```sh
-   cd repository-name
+   cd HDBMC-GOLDFIST-Sim
 
 The following python packages need to be installed:
 
