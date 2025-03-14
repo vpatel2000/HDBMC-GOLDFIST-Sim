@@ -49,6 +49,8 @@ We have included the data and results of the three analyzed cluster in our study
 
 - The `optimize_gen_257.job` file contains details to execute the `otimize_gen_257.py` file on Hydra HPC cluster. The output of this file is logged in `optimize_gen_257.log` file
 
+
+
 #### 📊 Cluster Report Generation
 
 - The script cluster_report_generator.py can be used generate `cluster_257.pdf` which summarizes the final results for the observed cluster. 
@@ -96,6 +98,9 @@ qsub optimize_gen_257.job
 ```
 
 The optimization process executed by `optimize_gen_257.py` file can be tracked in `optimize.gen_257.log` file.
+
+**Note:** The final processed table, referred to as "Cluster Tables" in the associated paper (see Citation section), is provided in this repository in the following location:
+ `Cluster_257/Final_Cluster_257_table_IR_YSOs_included.fits`.
 
 ### ⚠️ Repository Status  
 
