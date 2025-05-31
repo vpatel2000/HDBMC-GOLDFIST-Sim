@@ -154,4 +154,4 @@ A BibTeX entry will be provided upon publication for easy citation.
 Thank you for citing our work! 
  
 ## 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).  
