@@ -141,15 +141,15 @@ If you’d like to contribute once the project is open to changes, please follow
 
 ## 📌 Citation and BibTeX Entry (To be updated)  
 
-If you use this code in your research, please cite our forthcoming paper:  
+If you use this code in your research, please cite the following paper and Zenodo record:  
 
 **Identification of Outer Galaxy Cluster Members Using Gaia DR3 and Multidimensional Simulation**  
 Vishwas Patel, Joseph L. Hora, Matthew L.N. Ashby, Sarita Vig  
-_To be submitted to The Astrophysical Journal_
+_Accepted in The Astronomical Journal_
 
-Once published, the citation details will be updated here. The GitHub repository link is included in the manuscript.  
+arXiv DOI: https://arxiv.org/abs/2507.09721
 
-A BibTeX entry will be provided upon publication for easy citation.  
+Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15511563.svg)](https://doi.org/10.5281/zenodo.15511563)
 
 Thank you for citing our work! 
  
