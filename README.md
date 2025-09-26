@@ -102,13 +102,9 @@ The optimization process executed by `optimize_gen_257.py` file can be tracked i
 **Note:** The final processed table, referred to as "Cluster Tables" in the associated paper (see Citation section), is provided in this repository in the following location:
  `Cluster_257/Final_Cluster_257_table_IR_YSOs_included.fits`.
 
-### ⚠️ Repository Status  
+### 🤝 How to contribute to this project?  
 
-This repository is currently archived. However, we will welcome contributions in the future once the project is open for updates!  
-
-### 🤝 Future Contributions  
-
-If you’d like to contribute once the project is open to changes, please follow these steps:  
+If you’d like to contribute to this project, please follow the steps below:  
 
 #### 1. Fork the repository  
 
@@ -145,7 +141,7 @@ If you use this code in your research, please cite the following paper and Zenod
 
 **Identification of Outer Galaxy Cluster Members Using Gaia DR3 and Multidimensional Simulation**  
 Vishwas Patel, Joseph L. Hora, Matthew L.N. Ashby, Sarita Vig  
-_Accepted in The Astronomical Journal_
+_Published in The Astronomical Journal_
 
 arXiv DOI: https://arxiv.org/abs/2507.09721
 
